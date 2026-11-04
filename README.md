@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f766e,100:22c55e&text=Ibrahim%20Cartan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=CS%20%26%20Systems%20%C2%B7%20University%20of%20Washington&descAlignY=60&descSize=18" alt="Ibrahim Cartan banner" />
+  <img src="banner.svg" alt="Ibrahim Cartan, CS and Systems, University of Washington" width="100%" />
 </p>
 
 <p align="center"><b>I build software for real people, then ask them if it actually helped.</b></p>
