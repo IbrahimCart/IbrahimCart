@@ -17,7 +17,7 @@
 > I'm studying **Computer Science and Systems** with a minor in **Business Administration**, so I think about the person using the thing, not just the code behind it. My best project started with a conversation, not a keyboard: I sat down with my mom and asked what she actually needed before I wrote a line.
 
 > [!TIP]
-> **Open to:** software development internships, where I can keep building useful things and learn from people better than me.
+> **Open to:** software development internships, where I can keep building useful things and grow alongside experienced engineers.
 
 <!-- Add 1–2 true personal lines here: what you do outside of code, what you're into. -->
 
@@ -77,9 +77,9 @@
 
 ## How I work
 
-| Talk to the user first | Test the logic | Leverage AI |
+| Talk to the user first | Test the logic | Build with AI |
 |:---|:---|:---|
-| Requirements come from people, not guesses. | If it matters, it gets a test. | I leverage AI tools like Claude Code to build faster, and I document how in each project's `LOG.md`. |
+| Requirements come from people, not guesses. | If it matters, it gets a test. | I use AI tools like Claude Code to build faster, and I document how in each project's `LOG.md`. |
 
 > [!IMPORTANT]
-> Want to talk about a project or an internship? I'd love to hear from you.
+> Want to talk about a project or an internship? Reach out. I'd love to hear from you.
